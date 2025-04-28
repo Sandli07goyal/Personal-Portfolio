@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.4a51768e.css",
+    "main.js": "/Personal-Portfolio/static/js/main.36786e7c.js",
+    "static/media/avatar.heic": "/Personal-Portfolio/static/media/avatar.595f431f828a8bebce46.heic",
+    "static/media/RealEstate.jpg": "/Personal-Portfolio/static/media/RealEstate.954051f50977bbe740cc.jpg",
+    "static/media/Sandli's Resume.pdf": "/Personal-Portfolio/static/media/Sandli's Resume.dab0053d497d90b3da6e.pdf",
+    "static/media/SortingVisualizer.jpg": "/Personal-Portfolio/static/media/SortingVisualizer.8172f31a31a82c234cc8.jpg",
+    "static/media/ChatApplication.jpg": "/Personal-Portfolio/static/media/ChatApplication.78c473582341d113f740.jpg",
+    "static/media/sandli_cartoon.avif": "/Personal-Portfolio/static/media/sandli_cartoon.6dfd03d71abf0cae88e1.avif",
+    "static/media/spinner.svg": "/Personal-Portfolio/static/media/spinner.7dbbd1f0e042cae26dbfddb7334be5c8.svg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.4a51768e.css.map": "/Personal-Portfolio/static/css/main.4a51768e.css.map",
+    "main.36786e7c.js.map": "/Personal-Portfolio/static/js/main.36786e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a51768e.css",
+    "static/js/main.36786e7c.js"
+  ]
+}
